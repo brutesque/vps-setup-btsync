@@ -160,6 +160,7 @@ systemctl status nginx
 
 # Update firewall rules
 #------------------------------------------------------------------------------
+sudo ufw allow 80/tcp
 sudo ufw allow 443/tcp
 sudo ufw allow "$BTSYNC_PORT"/udp
 
