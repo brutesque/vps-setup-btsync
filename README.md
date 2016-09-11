@@ -1,4 +1,4 @@
-# Install script for installing BTSync server
+# Convenience script for setting up a Bittorrent Sync server
 Install script for installing BTSync server on an ubuntu vps
 
 Before using this script make sure you've setup your ufw firewall. Use https://github.com/brutesque/vps-setup-basics if neccessary.
