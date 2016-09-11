@@ -5,7 +5,7 @@ Before using this script make sure you've setup your ufw firewall. Use https://g
 
 Open up a command line on the remote host and enter the following command:
 ```sh
-$ bash -c "$(curl -fsSL https://raw.githubusercontent.com/brutesque/vps-setup-btsync/master/install.sh)"
+$ bash -c "$(curl -fsSL raw.githubusercontent.com/brutesque/vps-setup-btsync/master/install.sh)"
 ```
 Be sure to write down the username and password. It will not be shown again.
 
