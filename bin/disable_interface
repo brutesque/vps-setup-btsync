@@ -2,3 +2,4 @@
 
 sudo ufw delete allow http
 sudo ufw delete allow https
+sudo ufw status
